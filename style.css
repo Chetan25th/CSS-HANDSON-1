@@ -1,0 +1,52 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: orangered;
+    font-style: italic;
+}
+
+ol,ul{
+    color: brown;
+
+}
+ol li{
+    margin-top: 15px;
+}
+
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.line-thorugh{
+    background-color: transparent;
+    text-decoration: line-through;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.Text-Underline{
+    background-color: transparent;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+ul li{
+    letter-spacing: 3px;
+}
+
+p{
+    color: rgb(177, 126, 30);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;
+    font-style: oblique;
+    background-color: yellow;
+    color: brown;
+    font-weight: bolder;
+}
